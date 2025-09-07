@@ -1,19 +1,9 @@
 #include <stdio.h>
-
-int main() {
-    int n;
-    printf("Enter an integer: ");
-    scanf("%d", &n);
-
-    // Check range using bitwise operators instead of &&, ||
-    if ((n >= 0) & (n <= 50))
-        printf("LOW\n");
-    else if ((n >= 51) & (n <= 100))
-        printf("MEDIUM\n");
-    else if ((n >= 101) & (n <= 500))
-        printf("HIGH\n");
-    else
-        printf("OUT OF RANGE\n");
-
-    return 0;
+int main(){
+int a,b,c;
+printf("Enter two integers:");
+scanf("%d %d", &a, &b);
+c = a + b;
+printf("The sum of the two integers is: %d\n", c);
+return 0;
 }
