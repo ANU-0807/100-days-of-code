@@ -8,3 +8,8 @@ Sum, difference, product, and quotient of two integers.
 Area, perimeter of a rectangle.
 Area and circumference of a circle.
 - Day 3:
+- Conversion of temperature from Celsius to farhenite.
+- Swap two numbers using a third variable.
+- Day 4:
+- Swap two numbers without using a third variable.
+- Sum of n natural numbers.
