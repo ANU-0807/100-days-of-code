@@ -46,5 +46,23 @@ This repository contains my daily coding practice programs in C.
 - Day 15:
   Q29- To calculate the factorial of a number.
   Q30- To reverse a given number.
+- Day 16:
+  Q31- To print the equivalent binary representation of a number.
+  Q32- To check if a number is a palindrome.
+- Day 17:
+  Q33- To check if a number is an Armstrong number.
+  Q34- To check if a number is prime.
+- Day 18:
+  Q35- To print all factors of a given number.
+  Q36- To find the HCF (GCD) of two numbers.
+- Day 19:
+  Q37- To find the LCM of two numbers.
+  Q38- To find the sum of the digits of a number.
+- Day 20:
+  Q39- To find the product of odd digits of a number.
+  Q40- To find the 1’s complement of a binary number and print it.
+- Day 21:
+  Q41- To swap the first and last digit of a number.
+  Q42- To check if a number is a perfect number.
 
 
