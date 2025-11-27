@@ -94,6 +94,18 @@ This repository contains my daily coding practice programs in C.
 - Day 31:
   Q61. To search for an element in an array using linear search.
   Q62. To reverse an array without taking extra space.
+- Day 32:
+  Q63. Merge two arrays.
+  Q64. To find the digit that occurs the most times in an integer number.
+- Day 33:
+  Q65. To search in a sorted array using binary search.
+  Q66. To insert an element in a sorted array at the appropriate position.
+- Day 34:
+  Q67. To insert an element in an array at a given position.
+  Q68. To delete an element from an array.
+- Day 35:
+  Q69. To find the second-largest element in an array.
+  Q70. To rotate an array to the right by k positions.
 
 
 
