@@ -64,5 +64,37 @@ This repository contains my daily coding practice programs in C.
 - Day 21:
   Q41- To swap the first and last digit of a number.
   Q42- To check if a number is a perfect number.
+- Day 22:
+  Q43. To check if a number is a strong number.
+  Q44. To find the sum of the series: 1 + 3/4 + 5/6 + 7/8 + … up to n terms.
+- Day 23:
+  Q45. To find the sum of the series: 2/3 + 4/7 + 6/11 + 8/15 + ... up to n terms.
+  Q46. To print a pattern.
+- Day 24:
+  Q47. To print a pattern.
+  Q48. To print a pattern.
+- Day 25:
+  Q49. To print a pattern.
+  Q50. To print a pattern.
+- Day 26:
+  Q51. To print a pattern.
+  Q52. To print a pattern.
+- Day 27:
+  Q53. To print a pattern.
+  Q54. To print a pattern.
+- Day 28:
+  Q55. To print all the prime numbers from 1 to n.
+  Q56. To print elements of a one-dimensional array.
+- Day 29:
+  Q57. To find the sum of the array elements.
+  Q58. To find the maximum and minimum elements in an array.
+- Day 30:
+  Q59. To count even and odd numbers in an array.
+  Q60. To count positive, negative, and zero elements in an array.
+- Day 31:
+  Q61. To search for an element in an array using linear search.
+  Q62. To reverse an array without taking extra space.
+
+
 
 
