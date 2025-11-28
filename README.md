@@ -106,6 +106,21 @@ This repository contains my daily coding practice programs in C.
 - Day 35:
   Q69. To find the second-largest element in an array.
   Q70. To rotate an array to the right by k positions.
+- Day 36:
+  Q71. To read and print a matrix.
+  Q72. To find the sum of all elements in a matrix.
+- Day 37:
+  Q73. To find the sum of each row of a matrix and store it in an array.
+  Q74. To find the transpose of a matrix.
+- Day 38:
+  Q75. To add two matrices.
+  Q76. To check if a matrix is symmetric.
+- Day 39:
+  Q77. To check if the elements on the diagonal of a matrix are distinct.
+  Q78. To find the sum of the main diagonal elements for a square matrix.
+- Day 40:
+  Q79. To perform a diagonal traversal of a matrix.
+  Q80. To multiply two matrices.
 
 
 
