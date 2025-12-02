@@ -1,4 +1,4 @@
-//Q96. Reverse each word in a sentence without changing the word order.
+//Q96. Reverse each word in a sentence without changing the word order.//
 
 #include <stdio.h>
 int main() {
