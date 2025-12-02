@@ -1,21 +1,20 @@
-//Q103. Write a Program to take an array of integers as input, and calculate the pivot index of this array. The pivot index is the index where the sum of all the numbers strictly to the left of the index is equal to the sum of all the numbers strictly to the index's right. If the index is on the left edge of the array, then the left sum is 0 because there are no elements to the left. This also applies to the right edge of the array. Print the leftmost pivot index. If no such index exists, print -1..//
+//Q102. Write a Program to take a sorted array arr[] and an integer x as input, find the index (0-based) of the smallest element in arr[] that is greater than or equal to x and print it. This element is called the ceil of x. If such an element does not exist, print -1. Note: In case of multiple occurrences of ceil of x, return the index of the first occurrence.//
 
 #include <stdio.h>
 int main() {
-    int n;
+    int n, x;
     scanf("%d", &n);
     int a[n];
     for (int i = 0; i < n; i++) scanf("%d", &a[i]);
+    scanf("%d", &x);
+    int ans = -1;
     for (int i = 0; i < n; i++) {
-        int left = 0, right = 0;
-        for (int j = 0; j < i; j++) left += a[j];
-        for (int j = i + 1; j < n; j++) right += a[j];
-        if (left == right) {
-            printf("%d", i);
-            return 0;
+        if (a[i] >= x) {
+            ans = i;
+            break;
         }
     }
-    printf("-1");
+    printf("%d", ans);
     return 0;
 }
 
